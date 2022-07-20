@@ -30,7 +30,7 @@ call plug#end()
 "++++++source-config-file++++++
 source ~/.config/nvim/plugin-config/my_settings.vim
 source ~/.config/nvim/plugin-config/mapping.vim
-source ~/.config/nvim/plugin-config/coc_settings.vim
+source ~/.config/nvim/plugin-config/coc-st.vim
 source ~/.config/nvim/plugin-config/airline.vim
 source ~/.config/nvim/plugin-config/color-scheme.vim
 source ~/.config/nvim/plugin-config/nerdtree.vim
